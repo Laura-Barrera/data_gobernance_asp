@@ -1,0 +1,22 @@
+Material Number,Material Name,Material Description,Material type,Product Line,ABC Indicator code,quantity material,unit price
+001-100NX-01,STERRAD™ 100NX System,Low-temperature hydrogen peroxide gas plasma sterilizer,FERT,STERRAD™ Systems,A,36,818
+002-NX-01,STERRAD NX™ System,Low-temperature hydrogen peroxide gas plasma sterilizer,FERT,STERRAD™ Systems,A,35,605
+003-100S-01,STERRAD™ 100S System,Low-temperature hydrogen peroxide gas plasma sterilizer,FERT,STERRAD™ Systems,B,22,784
+004-APTITR-01,APTIMAX™ Instrument Trays,Trays for holding instruments during sterilization,UNBW,Terminal Sterilization Supplies,C,38,429
+005-APTITRH-01,APTIMAX™ Tray Holders,Holders for APTIMAX™ instrument trays,UNBW,Terminal Sterilization Supplies,C,8,13
+006-TRAYMAT-01,STERRAD™ Instrument Tray Mats,Mats for instrument trays,UNBW,Terminal Sterilization Supplies,B,40,891
+007-TYVEK-01,Tyvek® Pouches and Rolls with STERRAD™ Chemical Indicator,Pouches and rolls with chemical indicator,UNBW,Terminal Sterilization Supplies,B,16,431
+008-CASSETTE-01,STERRAD™ Cassettes,Sterilant cassettes for use with STERRAD™ systems,FERT,Terminal Sterilization Supplies,A,5,785
+009-CCB-01,STERRAD™ System Cassettes Collection Box,Collection box for used cassettes,UNBW,Terminal Sterilization Supplies,C,7,641
+010-VELOCITY-01,STERRAD VELOCITY™ Biological Indicator System,Fast and accurate biological indicator system,FERT,Sterilization Monitoring Systems,A,40,244
+011-BIOTRACE-PRO,BIOTRACE™ Auto Read Pro System,Automated biological indicator reader,ERSA,Sterilization Monitoring Systems,A,15,744
+012-BIOTRACE-MINI,BIOTRACE™ Auto Read Mini System,Compact automated biological indicator reader,ERSA,Sterilization Monitoring Systems,B,46,136
+013-SEALSURE-01,SEALSURE™ Chemical Indicator Tapes,Chemical indicator tapes for sterilization monitoring,UNBW,Sterilization Monitoring Supplies,B,28,148
+014-VERISURE-BD,VERISURE™ Bowie-Dick Test Pack,Test pack for verifying sterilizer performance,UNBW,Sterilization Monitoring Supplies,C,29,794
+015-VERISURE-MI,VERISURE™ Migrating Integrators,Chemical integrators for sterilization monitoring,UNBW,Sterilization Monitoring Supplies,C,9,514
+016-AEROFLEX-01,ASP AEROFLEX™ Automatic Endoscope Reprocessor AER,Automated endoscope reprocessor,ERSA,High-Level Disinfection,A,48,404
+017-EVOTECH-01,EVOTECH™ Endoscope Cleaner and Reprocessor,Automated endoscope cleaner and reprocessor,ERSA,High-Level Disinfection,A,26,922
+018-ENZOL-01,ENZOL™ Enzymatic Detergent,Enzymatic detergent for cleaning endoscopes,ERSA,High-Level Disinfection,B,24,950
+019-CIDEX-01,CIDEX™ OPA Solution,High-level disinfectant for endoscopes and medical devices,ERSA,High-Level Disinfection,B,41,662
+020-CIDEX-TS-01,CIDEX™ OPA Solution Test Strips,Test strips for CIDEX™ OPA Solution,UNBW,High-Level Disinfection,C,30,16
+021-CIDEZYME-01,CIDEZYME™ XTRA Multi Enzymatic Detergent,Multi-enzymatic detergent for cleaning medical instruments,ERSA,High-Level Disinfection,B,15,105

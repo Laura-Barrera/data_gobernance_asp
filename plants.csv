@@ -1,0 +1,65 @@
+Plant_ID,Reporting Shipping Plant Name,Plant continent,Plant Manager,Plant Regional
+001A,AL,Europe,James Smith,Europe
+002A,AU,Oceania,Mary Johnson,Oceania
+003A,AT,Europe,Robert Brown,Europe
+001B,BE,Europe,Patricia Taylor,Europe
+002B,BA,Europe,Michael Davis,Europe
+003B,BR,South America,Linda Martinez,LATAM
+004B,BG,Europe,William Hernandez,Europe
+001C,CL,South America,Elizabeth Lopez,LATAM
+002C,CN,Asia,David Gonzalez,Asia
+003C,CO,South America,Barbara Wilson,LATAM
+004C,HR,Europe,Richard Anderson,Europe
+005C,CZ,Europe,Susan Thomas,Europe
+001D,DK,Europe,Joseph Jackson,Europe
+001E,EC,South America,Jessica Lee,LATAM
+002E,EG,Africa,Charles Harris,Africa
+003E,EE,Europe,Karen Clark,Europe
+001F,FI,Europe,Thomas Lewis,Europe
+002F,FR,Europe,Nancy Robinson,Europe
+001G,DE,Europe,Christopher Walker,Europe
+002G,GR,Europe,Margaret Hall,Europe
+001H,HK,Asia,Daniel Allen,Asia
+002H,HU,Europe,Sandra Young,Europe
+001I,IN,Asia,Matthew King,Asia
+002I,IE,Europe,Ashley Wright,Europe
+003I,IL,Asia,Anthony Scott,Asia
+004I,IT,Europe,Kimberly Adams,Europe
+001J,JP,Asia,Mark Nelson,Asia
+001K,XK,Europe,Emily Hill,Europe
+001L,LV,Europe,Donald Green,Europe
+002L,LT,Europe,Donna Baker,Europe
+003L,LU,Europe,Steven Rivera,Europe
+001M,MK,Europe,Michelle Mitchell,Europe
+002M,MY,Asia,Paul Carter,Asia
+003M,MT,Europe,Laura Roberts,Europe
+004M,ME,Europe,Andrew Phillips,Europe
+005M,MX,North America,Sarah Campbell,LATAM
+001N,NL,Europe,Joshua Parker,Europe
+002N,NO,Europe,Lisa Evans,Europe
+001P,PA,Central America,George Edwards,LATAM
+002P,PE,South America,Betty Collins,LATAM
+003P,PH,Asia,Kenneth Stewart,Asia
+004P,PL,Europe,Dorothy Sanchez,Europe
+005P,PT,Europe,Brian Morris,Europe
+006P,PR,Central America,Deborah Rogers,LATAM
+001R,RO,Europe,Kevin Reed,Europe
+002R,RU,Europe,Helen Cook,Europe
+001S,SA,Asia,Jason Morgan,Asia
+002S,RS,Europe,Sharon Bell,Europe
+003S,SG,Asia,Jeffrey Murphy,Asia
+004S,SK,Europe,Cynthia Bailey,Europe
+005S,SI,Europe,Ryan Cooper,Europe
+006S,ZA,Africa,Kathleen Richardson,Africa
+007S,KR,Asia,Jacob Cox,Asia
+008S,ES,Europe,Amy Howard,Europe
+009S,SE,Europe,Gary Ward,Europe
+010S,CH,Europe,Shirley Torres,Europe
+001T,TW,Asia,Nicholas Peterson,Asia
+002T,TH,Asia,Angela Gray,Asia
+003T,TR,Europe,Eric Ramirez,Europe
+001U,UA,Europe,Melissa James,Europe
+002U,AE,Asia,Stephen Watson,Asia
+003U,GB,Europe,Stephanie Brooks,Europe
+004U,UY,South America,Larry Kelly,LATAM
+001V,VN,Asia,Rebecca Sanders,Asia
